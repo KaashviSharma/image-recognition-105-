@@ -1,0 +1,26 @@
+body{
+    color: whitesmoke;
+    background: lightgreen;
+}
+
+.heading{
+    width:80%;
+    font-size: 25px;
+}
+
+.name_of_objects{
+    color: rgb(184, 103, 77);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects, #result_object_name , #result_object_accuracy
+{
+    color: palevioletred;
+}
